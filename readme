@@ -1,0 +1,6 @@
+Fire extinguisher report. 
+This project uses a fire extingusher report and accepts the user input.
+All input is automatically saved into a text file.
+This project was designed to be used in the workplace as an alternative to keeping the files handwritten. 
+The program only uses python but in the future adding a GUI to the program will make it more user friendly.
+Another feature I hope to implement in the future would be a drop down menu for yes or no input. 
